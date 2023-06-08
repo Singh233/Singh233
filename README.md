@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanambir Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **ThreeJs**
+- 🌱 I’m currently learning **ThreeJs** and **Blender**
 
 - 💬 Ask me about **react, nodejs, mongodb, expressjs**
 
 - 📫 Reach me at **sanambir123@gmail.com**
 
-- ⚡ As you already know **Obsessed with creating presence on the internet**
+- ⚡ Turning Dreams into Code. One line at a time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
