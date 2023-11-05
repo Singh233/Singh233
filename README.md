@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **ThreeJs** and **Blender**
 
-- 💬 Ask me about **Data Structures and algorithms, react, nodejs, mongodb, expressjs, nextjs and so on.**
+- 💬 Ask me about **Data Structures and algorithms, react, nodejs, mongodb, expressjs, nextjs etc.**
 
 - 📫 Reach me at **sanambir123@gmail.com**
 
 - ⚡ Turning Dreams into Code. One line at a time!
+
+- 🌟 Something is Cooking - https://www.chillsanam.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
