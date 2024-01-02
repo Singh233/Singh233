@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanambir Singh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **ThreeJs** and **Blender**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Turning Dreams into Code. One line at a time!
 
-- 🌟 Something is Cooking - https://www.chillsanam.me
+- 🌟 Something is Cooking - https://sanam.studio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
