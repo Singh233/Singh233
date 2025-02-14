@@ -9,7 +9,7 @@
 
 - ⚡ Turning Dreams into Code. One line at a time!
 
-- 🌟 Something is Cooking - https://sanam.studio
+- 🌟 Something is Cooking - https://chillsanam.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
