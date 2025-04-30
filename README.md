@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanambir Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **ThreeJs** and **Blender**
-
-- 💬 Ask me about **Data Structures and algorithms, react, nodejs, mongodb, expressjs, nextjs etc.**
+- 🌱Currently Building **Flowcery** - Comparison app and much more! - https://flowcery.com
 
 - 📫 Reach me at **sanambir123@gmail.com**
 
@@ -20,5 +18,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh233&show_icons=true&locale=en&layout=compact" alt="singh233" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh233&" alt="singh233" /></p>
